@@ -84,4 +84,4 @@ Ce projet est sous licence GPL.
 
  [andrieu.ps@gmail.com](mailto:andrieu.ps@gmail.com)
 
-Lien du projet : [https://github.com/PierreAND/JeanJacquesC](https://github.com/PierreAND/JeanJacquesC)
+
