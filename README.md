@@ -17,7 +17,7 @@ Ce projet est une application web pour un magasin de location de costumes de cé
   - React
   - React Router (pour la navigation)
 - **Back-End** :
-  - Rails (API mode)
+  - 
   - PostgreSQL (base de données)
   - JWT (Authentification)
 
@@ -25,7 +25,7 @@ Ce projet est une application web pour un magasin de location de costumes de cé
 
 Assurez-vous d'avoir Node.js, Ruby et PostgreSQL installés sur votre machine avant de commencer.
 
-### Configuration du Back-End (rails API)
+### Configuration du Back-End 
 
 1. Cloner le dépôt du back-end.
 
